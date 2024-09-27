@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|c:\\users\\administrator\\source\\repos\\kochab.blazorwebapp\\kochab.blazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|solutionrelative:kochab.blazorwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|c:\\users\\administrator\\source\\repos\\kochab.blazorwebapp\\kochab.blazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|solutionrelative:kochab.blazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|c:\\users\\administrator\\source\\repos\\kochab.blazorwebapp\\kochab.blazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|solutionrelative:kochab.blazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|c:\\users\\administrator\\source\\repos\\kochab.blazorwebapp\\kochab.blazorwebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F428E062-D543-4A95-BA48-8F38DDBA028D}|Kochab.BlazorWebApp\\Kochab.BlazorWebApp.csproj|solutionrelative:kochab.blazorwebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Kochab.BlazorWebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Kochab.BlazorWebApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:25:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Kochab.BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Kochab.BlazorWebApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:25:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Kochab.BlazorWebApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\Routes.razor",
+              "RelativeToolTip": "Kochab.BlazorWebApp\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:25:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Kochab.BlazorWebApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Kochab.BlazorWebApp\\Kochab.BlazorWebApp\\Components\\App.razor",
+              "RelativeToolTip": "Kochab.BlazorWebApp\\Components\\App.razor",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:24:52.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

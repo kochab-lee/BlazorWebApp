@@ -1,0 +1,17 @@
+﻿@page "/"
+
+@code {
+    private string hello = "Hello";
+
+    private void ClickMe(MouseEventArgs obj)
+    {
+        hello = "Hello,World!";
+    }
+
+}
+
+<PageTitle>Home</PageTitle>
+
+<h1>@hello</h1>
+
+<Button Text="点我" OnClick="ClickMe"></Button>
