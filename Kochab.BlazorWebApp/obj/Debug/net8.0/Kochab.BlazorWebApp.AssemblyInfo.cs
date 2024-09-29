@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kochab.BlazorWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d98db9bef28021448e105ae1f850dda950f8a2af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa0cc720ffc15deb965ca99ee48cff7dcd265b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kochab.BlazorWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kochab.BlazorWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

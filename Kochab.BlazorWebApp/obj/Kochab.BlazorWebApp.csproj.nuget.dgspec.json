@@ -36,6 +36,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,6 +54,14 @@
             "BootstrapBlazor.FontAwesome": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "FreeSql.Extensions.BaseEntity": {
+              "target": "Package",
+              "version": "[3.2.833, )"
+            },
+            "FreeSql.Provider.MySql": {
+              "target": "Package",
+              "version": "[3.2.833, )"
             }
           },
           "imports": [
