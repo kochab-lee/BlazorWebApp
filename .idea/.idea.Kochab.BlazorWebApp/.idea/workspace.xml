@@ -9,49 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41f54535-736a-4139-8556-2e687e36926e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Components/AdminTable.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Components/AdminTable.razor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Layout/MainLayout.razor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Entity/MenuEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Entity/RoleEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Entity/RoleMenuEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Entity/UserEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Extension/FreeSqlExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Service/FreesqlDataService.cs" afterDir="false" />
+    <list default="true" id="41f54535-736a-4139-8556-2e687e36926e" name="更改" comment="第三次更新">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Kochab.BlazorWebApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kochab.BlazorWebApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Layout/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Layout/MainLayout.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Layout/MainLayout.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Layout/MainLayout.razor.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Pages/Counter.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Pages/User.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Pages/Home.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Pages/Home.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Kochab.BlazorWebApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Kochab.BlazorWebApp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/bin/Debug/net8.0/Kochab.BlazorWebApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/Kochab.BlazorWebApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/ref/Kochab.BlazorWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/ref/Kochab.BlazorWebApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/refint/Kochab.BlazorWebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/refint/Kochab.BlazorWebApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/scopedcss/bundle/Kochab.BlazorWebApp.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/scopedcss/bundle/Kochab.BlazorWebApp.styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/scopedcss/projectbundle/Kochab.BlazorWebApp.bundle.scp.css" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Debug/net8.0/scopedcss/projectbundle/Kochab.BlazorWebApp.bundle.scp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Kochab.BlazorWebApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Kochab.BlazorWebApp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Kochab.BlazorWebApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/Kochab.BlazorWebApp.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Components/AdminTable.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Components/AdminTable.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Components/AdminTable.razor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kochab.BlazorWebApp/Components/Components/AdminTable.razor.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +151,7 @@
       <updated>1727425579735</updated>
       <workItem from="1727425581663" duration="4376000" />
       <workItem from="1727567760396" duration="12008000" />
-      <workItem from="1727593305660" duration="6574000" />
+      <workItem from="1727593305660" duration="7147000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -232,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727567779270</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第三次更新">
+      <option name="closed" value="true" />
+      <created>1727603070765</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727603070765</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +230,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="第二次修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次修正" />
+    <MESSAGE value="第三次更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次更新" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

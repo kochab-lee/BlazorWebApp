@@ -1,6 +1,12 @@
-﻿namespace Kochab.BlazorWebApp.Components.Components;
+﻿using System.Diagnostics.CodeAnalysis;
+using Microsoft.AspNetCore.Components;
 
-public partial class AdminTable
+namespace Kochab.BlazorWebApp.Components.Components;
+
+[CascadingTypeParameter(nameof(TItem))]
+public partial class AdminTable<TItem> where TItem : class, new()
 {
-    
+    [NotNull]
+    [Parameter]
+    public RenderFragment<TItem>? TableColumns { get; set; }
 }
